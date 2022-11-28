@@ -31,9 +31,9 @@ const carSpeed = function(speed) {  //Funtion Expression is in use.
 // We will use the control flow mechanism to represent all aspects of our data.
     if (acceptedSpeed) {  
         return 'Ok'
-    }else if (speed > 70) {
-        return deductPoints
-    }else if (deductPoints > 12) { 
+    }else if (speed > 70 && speed < 135) {
+        return `Points: ${deductPoints}`
+    }else if (speed > 135) { 
         return "License suspended"
     }
 }
