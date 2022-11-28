@@ -1,0 +1,19 @@
+{
+  "name": "wk1-code-challenge",
+  "version": "1.0.0",
+  "description": "A JavaScript code challenge",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LincKim/WK1-Code-Challenge.git"
+  },
+  "author": "Lincoln Kimutai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LincKim/WK1-Code-Challenge/issues"
+  },
+  "homepage": "https://github.com/LincKim/WK1-Code-Challenge#readme"
+}
