@@ -1,4 +1,4 @@
-// Challenge 1: Student Grade Generator(Toy Problem)
+// ## Challenge 1: Student Grade Generator(Toy Problem)
 
 function studentMark(marks) {
     // At this point I set flow of how the grades will be output after the the marks are passed in.
@@ -21,7 +21,7 @@ studentMark()
 
 
 
-// Challenge 2: Speed Detector(Toy Problem)
+// ## Challenge 2: Speed Detector(Toy Problem)
 
 const carSpeed = function(speed) {  //Funtion Expression is in use.
     let acceptedSpeed = speed <= 70 && speed >= 0
@@ -42,7 +42,7 @@ carSpeed()
 
 
 
-// Challenge 3: Net Salary Calculator(Toy Problem)
+// ## Challenge 3: Net Salary Calculator(Toy Problem)
 
 function afterPaye(grossSalary) {
     
