@@ -6,12 +6,12 @@ The code written herein is ONLY for academic purposes.
 # OVERVIEW
 The code written herein is a reflection of my current understanding on JavaScripts's basics such as Functions and other objects within the Language's syntax.
 
-The Code Challenges are three(3) and you can notice them through the the line of code that have been commented out and they begin with double #Tag.
+The Code Challenges are three(3) and each Challenge is in its JS file given an appropriate title.
 
 Feel free to go through the code and maybe you will learn one or two things in this not complicated code.
 
 # Description
-This project is purely JavaScript code and does not contain any HTML or CSS codes. If time allows then in the future these (HTML and CSS) codes will be added to imrove on the interactivity.
+This project Challenge is purely JavaScript code and does not contain any HTML or CSS codes. If time allows then in the future these (HTML and CSS) codes will be added to imrove on the interactivity.
 
 ## Installation
 
@@ -26,7 +26,7 @@ To use this repo on your machine requires some simple steps depected below:
         
         or using the SSh Key:
 
-        git clone *git@github.com:LincKim/WK1-Code-Challenge.git*
+        git clone git@github.com:LincKim/WK1-Code-Challenge.git
 
 
 - Be patient as it creates a copy on your local machine for you.
